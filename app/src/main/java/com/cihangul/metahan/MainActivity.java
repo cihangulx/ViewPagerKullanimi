@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
                 fragment = new Sayfa2();
             } else if (position == 2) {
                 fragment = new Sayfa3();
-            } else if (position == 4) {
+            } else if (position == 3) {
                 fragment = new Sayfa4();
             }
 
